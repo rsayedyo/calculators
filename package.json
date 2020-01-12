@@ -4,7 +4,6 @@
   "description": "",
   "main": "calc.js",
   "scripts": {
-    "start": "node calc.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rana",
